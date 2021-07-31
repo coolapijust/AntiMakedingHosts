@@ -2,20 +2,20 @@
 
 [English Version Here](https://github.com/Skimige/AntiMakedingHosts/blob/master/README_en.md)
 
-## 说明
+## 简介
 
-为广告拦截扩展适配
+为广告拦截扩展适配的屏蔽思杰马克丁规则，基于[此项目](https://github.com/Skimige/AntiMakedingHosts)
+我不愿修改本机的hosts文件，且只需要屏蔽规则在浏览器中生效，因此ad filters是对我最友好的屏蔽思杰马克丁方式。
+这个项目将hosts文件改写成了广告过滤器的形式，支持广告拦截扩展如Adblock(plus),uBlock-Origin,Adguard等等。
+安装过程请看下面的使用说明。
 
 ## 使用
 
 
 
-
 ## 推荐阅读
 
-`不愿回锅的回锅肉` 在 `如何评价苏州思杰马克丁软件公司？` 下的 [回答](https://www.zhihu.com/question/46746200/answer/189862510) | [Archive.is 存档](https://archive.is/dz2r6)
 
-[思杰马克丁代理软件真正的官网 - 胡萝卜周](http://www.carrotchou.blog/3663.html)
 
 ## 许可证
 
