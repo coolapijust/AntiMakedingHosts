@@ -19,6 +19,7 @@
 [![Wvd4fA.png](https://z3.ax1x.com/2021/07/31/Wvd4fA.png)](https://imgtu.com/i/Wvd4fA)
 
 2.在弹出的窗口中粘贴 https://raw.fastgit.org/coolapijust/AntiMakedingHosts/master/hosts
+
 此链接已使用cdn加速，可在国内无障碍访问。
 
 [![WvwAk4.png](https://z3.ax1x.com/2021/07/31/WvwAk4.png)](https://imgtu.com/i/WvwAk4)
