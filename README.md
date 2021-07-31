@@ -1,10 +1,10 @@
-# AntiMakedingHosts
+# Makeding ad filters
 
 [English Version Here](https://github.com/Skimige/AntiMakedingHosts/blob/master/README_en.md)
 
 ## 说明
 
-
+为广告拦截扩展适配
 
 ## 使用
 
