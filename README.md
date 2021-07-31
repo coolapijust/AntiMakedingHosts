@@ -1,6 +1,5 @@
 # Makeding ad filters
 
-[English Version Here](https://github.com/Skimige/AntiMakedingHosts/blob/master/README_en.md)
 
 ## 简介
 
@@ -11,7 +10,11 @@
 
 ## 使用
 
+使用说明以adguard浏览器扩展举例。
 
+1.进入扩展自定义过滤器页面 （广告拦截器-自定义）
+
+[![Wvd4fA.png](https://z3.ax1x.com/2021/07/31/Wvd4fA.png)](https://imgtu.com/i/Wvd4fA)
 
 ## 推荐阅读
 
