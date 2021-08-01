@@ -3,7 +3,7 @@
 
 ## 简介
 
-为广告拦截扩展适配的屏蔽思杰马克丁规则，基于[此项目](https://github.com/Skimige/AntiMakedingHosts)
+为广告拦截扩展改写的屏蔽思杰马克丁规则，基于[此项目](https://github.com/Skimige/AntiMakedingHosts)
 
 
 我不愿修改本机的hosts文件，且只需要屏蔽规则在浏览器中生效，因此ad filters是对我最友好的屏蔽思杰马克丁方式。
